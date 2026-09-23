@@ -1,5 +1,7 @@
 # Hi, I'm Kevin! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+software%2C+one+project+at+a+time.;Learning.+Building.+Improving.;Turning+ideas+into+working+solutions.)](https://git.io/typing-svg)
+
 ### Aspiring Software Developer
 
 I'm a Software Development student passionate about building web applications
@@ -14,33 +16,33 @@ on Java, Spring Boot, databases, and cloud technologies.
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,py,sql&perline=4" />
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react&perline=3" />
+</p>
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring&perline=1" />
+</p>
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-000000?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql&perline=1" />
+</p>
 
 ### Cloud & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,ubuntu,git,github,vscode&perline=6" />
+</p>
 
 ---
 
@@ -53,7 +55,11 @@ production and inventory management workflows.
 
 **Technologies:** Java · Spring Boot · Spring Data JPA · MySQL · Docker · Swagger/OpenAPI
 
-[View Repository](https://github.com/kevinienriquezr-arch/yogurt)
+<p>
+  <a href="https://github.com/kevinienriquezr-arch/yogurt">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -64,16 +70,22 @@ backend services, and relational database.
 
 **Technologies:** React · JavaScript · AWS EC2 · Ubuntu · Nginx
 
-[View Backend Repository](https://github.com/kevinienriquezr-arch/dieta_back)
-[View Frontend Repository](https://github.com/kevinienriquezr-arch/dieta_front)
+<p>
+  <a href="https://github.com/kevinienriquezr-arch/dieta_back">
+    <img src="https://img.shields.io/badge/⚙️%20Backend-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/kevinienriquezr-arch/dieta_front">
+    <img src="https://img.shields.io/badge/💻%20Frontend-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Software Architecture
+- Software Architecture & Design
 - Spring Boot & Backend Development
-- SQL & Database Design
+- Database Design & SQL
 - Docker & Cloud Technologies
 - Agile & Scrum
 
@@ -81,4 +93,11 @@ backend services, and relational database.
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/kevin-isaac-enriquez-rangel-8492a92b0/) · [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevin.i.enriquez.r@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/kevin-isaac-enriquez-rangel-8492a92b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kevinienriquezr-arch">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
